@@ -1,0 +1,14 @@
+Contents of defconfig
+All configs for supersonic evo 4g
+
+
+evervolv_supersonic_defconfig: Standard Evervolv kernel config
+
+aokp_sbc_defconfig; For TroNits AOKP use 'make menuconfig' to disable sbc
+
+hs_sbc_defconfig: HammerSlammer for CM/Slim/AOSPA/more with sbc ; use 'make menuconfig' to disable sbc
+
+hammer_slammer_defconfig: All clean with most new governors and bcm module.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
